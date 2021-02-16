@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+
+p{
+    background: coral;
+}
+
+.fondoamarillo{
+    background: yellow;
+}
+
+#uno{
+background: red;
+}
+
+ul{
+    border: solid 1px red;
+}
+
+li{
+    border:solid;
+    margin: 10px;
+    padding: 10px;
+}
